@@ -1,5 +1,5 @@
 # GOOGLE DOCS CLONE
-This is the front end of the application.
+This is the frontend of the application.
 
 [This is the link to the backend repository](https://github.com/mickelelkhoury/googleDocsClone-BE)
 
